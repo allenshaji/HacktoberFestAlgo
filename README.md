@@ -10,6 +10,8 @@ Please Follow these steps to make your first pull request-
     Clone your forked repository to your local machine.
 
     Write some algorithm in any languages as you wish
+    
+    Add you name and name of your created file in contributors.md
 
 Write these command on your terminal-
 
